@@ -30,6 +30,29 @@ const myFunction = function(){
 // console.log(typeof outsideTemp);
 //output is object
 
-console.log(typeof myFunction);
-console.log(typeof heros);
-console.log(typeof Symbol);
+// console.log(typeof myFunction);
+// console.log(typeof heros);
+// console.log(typeof Symbol);
+
+// +++++++++++
+
+// Stack (Primitive), Heap (Non-Primitive)
+
+let myYoutubename = "raunaksahnidekicom"
+let anothername = myYoutubename 
+anothername = "meinaurtoo"
+
+console.log(myYoutubename);
+console.log(anothername);
+
+let userOne ={
+    email: "raunaksahni.com",
+    upi: "user@ybl"
+}
+
+let userTwo = userOne
+
+userTwo.email = "sourav@gmail.com"
+
+console.log(userOne.email);
+console.log(userTwo.email);
