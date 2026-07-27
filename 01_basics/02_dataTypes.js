@@ -1,9 +1,9 @@
-"use strict";
+// "use strict";
 
-// alert(3+3) we are using nodejs, not broweser
+// alert(3+3) we are using nodejs, not browser
 
-console.log(3+3)
-console.log("Raunak")
+// console.log(3+3)
+// console.log("Raunak")
 let name ="Raunak"
 let age = 21
 let isLoggedIn= false
@@ -20,6 +20,6 @@ let state;
   //object
 
   console.log(typeof undefined)//undefined
-  
+
   console.log(typeof null)// object
 
