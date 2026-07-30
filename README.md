@@ -211,3 +211,11 @@ please consider giving it a Star.
 Made with ❤️ by Raunak Kumar
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+<div align="center">
+
+### ⭐ Happy Coding ❤️
+
+Made with JavaScript ☕ and lots of curiosity.
+
+</div>
