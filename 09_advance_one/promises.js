@@ -77,8 +77,14 @@ consumePromiseFive()
 // }
 // getAllUsera()
 
-
-
+fetch('https://jsonplaceholder.typicode.com/users/raunakcse25-star')
+.then((response)=> {
+    return response.json()
+})
+.then((data)=>{
+    console.log(data)
+})
+.catch((error)=> console.log(error))
 
 
 
